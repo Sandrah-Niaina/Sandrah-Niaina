@@ -1,0 +1,5 @@
+- 👋 Hello, I'm Sandrah Niaina from Sayna
+- 👀 I'm interested in the digital program
+- 🌱 In fact, I'm taking a DEV course at Sayna space.
+- 💞️ I'm a beginner, but I'm open to any exchange on the world of DEV.
+- 📫 How to reach me ...
